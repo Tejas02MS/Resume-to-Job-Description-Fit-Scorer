@@ -1,6 +1,6 @@
 from pathlib import Path
 import io
-import fitz  # PyMuPDF
+import pymupdf  # PyMuPDF
 
 class ResumeParseError(Exception):
     pass
@@ -17,7 +17,7 @@ def extract_resume_text(filename: str, content: bytes) -> tuple[str, str | None]
             raise ResumeParseError("TXT file is not valid UTF-8.") from exc
     else:
         try:
-            doc = fitz.open(stream=content, filetype="pdf")
+            doc = pymupdf.open(stream=content, filetype="pdf")
             text = "\n".join(page.get_text() for page in doc)
             doc.close()
         except Exception as exc:
