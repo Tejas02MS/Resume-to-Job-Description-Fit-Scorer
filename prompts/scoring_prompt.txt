@@ -1,0 +1,10 @@
+Score one resume against one job criterion.
+Use ONLY evidence in the resume. Do not infer missing experience.
+Scoring anchors:
+0 = no evidence or directly contradictory
+25 = weak/adjacent evidence
+50 = partial match
+75 = strong match with minor gaps
+100 = clear, direct match
+Keep scoring consistent across similar resumes. Do not reward formatting or writing style.
+Return concise evidence quotes/paraphrases, missing items, and reasoning.
