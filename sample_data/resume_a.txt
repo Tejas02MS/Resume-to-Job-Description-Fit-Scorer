@@ -1,0 +1,6 @@
+Tejas M S
+Full Stack Developer
+Education: B.E. in Computer Science.
+Experience: Software development internship and academic projects.
+Skills: React, JavaScript, HTML, CSS, Tailwind CSS, Python, FastAPI, REST APIs, MongoDB.
+Projects: Built a resume analyzer with React frontend and FastAPI backend. Created REST APIs and integrated MongoDB.

@@ -1,0 +1,1 @@
+Use the three resumes with the same job description to demonstrate calibration. Resume A and B are intentionally very similar; the expected score gap is small. Resume C is stronger and should be higher, but the result should remain explainable criterion-by-criterion.

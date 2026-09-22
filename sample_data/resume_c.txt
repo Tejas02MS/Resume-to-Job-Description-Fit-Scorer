@@ -1,0 +1,5 @@
+Software Engineer
+Education: B.E. in Computer Science.
+Experience: 3 years building production web applications.
+Skills: React, JavaScript, TypeScript, HTML/CSS, Tailwind CSS, Python, FastAPI, REST APIs, MongoDB, SQL.
+Projects: Developed scalable full-stack systems, designed database schemas, integrated third-party APIs, and collaborated with cross-functional teams.
